@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/wulkan.jpg</file>
+        <file>images/castle.jpg</file>
+        <file>images/amber.jpg</file>
+        <file>images/cave.jpg</file>
+        <file>images/pit.jpg</file>
+        <file>images/waters.jpg</file>
+        <file>images/cove.jpg</file>
+        <file>images/gameover.jpg</file>
+        <file>images/stupidity.jpg</file>
+        <file>images/final.jpg</file>
+    </qresource>
+</RCC>
