@@ -8,12 +8,12 @@
 #include <cstdlib>
 #include <ctime>
 
-Game::Game() : playerHealth(100), playerXP(400), location("Pyroklas Castle"), mainWindow(nullptr) {
+Game::Game() : playerHealth(100), playerXP(0), location("Pyroklas Castle"), mainWindow(nullptr) {
     initializeGame();
 }
 
 void Game::initializeGame() {
-    inventory["WaterBombs"] = 5;
+    inventory["WaterBombs"] = 3;
     inventory["FireExtinguishers"] = 3;
     locations = {"Pyroklas Castle", "Amber Lair", "Fire Pits", "Hot Caves", "Boiling Waters", "Treasure Coast", "Volcanic Mountains"};
 
