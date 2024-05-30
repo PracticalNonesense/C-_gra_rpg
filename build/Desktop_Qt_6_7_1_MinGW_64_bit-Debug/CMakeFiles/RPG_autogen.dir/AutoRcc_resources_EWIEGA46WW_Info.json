@@ -1,0 +1,31 @@
+{
+	"BUILD_DIR" : "C:/Users/panka/OneDrive/Pulpit/RPG/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/RPG_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/panka/OneDrive/Pulpit/RPG/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/panka/OneDrive/Pulpit/RPG/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/panka/OneDrive/Pulpit/RPG",
+	"CMAKE_SOURCE_DIR" : "C:/Users/panka/OneDrive/Pulpit/RPG",
+	"INCLUDE_DIR" : "C:/Users/panka/OneDrive/Pulpit/RPG/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/RPG_autogen/include",
+	"INPUTS" : 
+	[
+		"C:/Users/panka/OneDrive/Pulpit/RPG/images/amber.jpg",
+		"C:/Users/panka/OneDrive/Pulpit/RPG/images/wulkan.jpg",
+		"C:/Users/panka/OneDrive/Pulpit/RPG/images/cave.jpg",
+		"C:/Users/panka/OneDrive/Pulpit/RPG/images/pit.jpg",
+		"C:/Users/panka/OneDrive/Pulpit/RPG/images/waters.jpg",
+		"C:/Users/panka/OneDrive/Pulpit/RPG/images/cove.jpg",
+		"C:/Users/panka/OneDrive/Pulpit/RPG/images/final.jpg",
+		"C:/Users/panka/OneDrive/Pulpit/RPG/images/stupidity.jpg",
+		"C:/Users/panka/OneDrive/Pulpit/RPG/images/castle.jpg",
+		"C:/Users/panka/OneDrive/Pulpit/RPG/images/gameover.jpg"
+	],
+	"LOCK_FILE" : "C:/Users/panka/OneDrive/Pulpit/RPG/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/CMakeFiles/RPG_autogen.dir/AutoRcc_resources_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "resources" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_resources.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.7.1/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Users/panka/OneDrive/Pulpit/RPG/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/CMakeFiles/RPG_autogen.dir/AutoRcc_resources_EWIEGA46WW_Used.txt",
+	"SOURCE" : "C:/Users/panka/OneDrive/Pulpit/RPG/resources.qrc",
+	"VERBOSITY" : 0
+}
